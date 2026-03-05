@@ -1,0 +1,142 @@
+[
+  {
+    "text": "The Temple of the Sacred Tooth Relic (Sri Dalada Maligawa) is one of the most revered Buddhist shrines in Sri Lanka, located within the former royal palace complex in Kandy. Visitors can explore the temple’s ornate architecture, museum sections, and observe daily rituals (pujas) that reflect centuries of Kandyan Buddhist heritage. The site is also central to major cultural events such as the Esala Perahera, and it offers strong historical and spiritual value for both local and international travelers.",
+    "metadata": {
+      "id": 1,
+      "name": "Temple of the Tooth (Sri Dalada Maligawa)",
+      "district": "Kandy",
+      "category": "religious",
+      "budget_level": "low",
+      "recommended_duration": "2 hours",
+      "best_season": "Year-round (avoid peak holiday crowds)",
+      "latitude": 7.293627,
+      "longitude": 80.64135
+    }
+  },
+  {
+    "text": "Royal Botanic Gardens, Peradeniya is Sri Lanka’s best-known botanical garden, featuring extensive collections of orchids, palms, spices, and medicinal plants. Spread across a large landscaped area near the Mahaweli River, the gardens include iconic avenues (such as palms) and large specimen trees. It is well-suited for relaxed walks, nature photography, and educational visits, and it is commonly included in Kandy day itineraries.",
+    "metadata": {
+      "id": 2,
+      "name": "Royal Botanic Gardens, Peradeniya",
+      "district": "Kandy",
+      "category": "nature",
+      "budget_level": "low",
+      "recommended_duration": "half day",
+      "best_season": "Year-round (mornings are cooler)",
+      "latitude": 7.269039,
+      "longitude": 80.595539
+    }
+  },
+  {
+    "text": "The Hanthana Mountain Range, located southwest of Kandy, is a well-known trekking area in Sri Lanka’s central highlands. Hikers follow trails through grasslands and forest patches to reach viewpoints with wide panoramas of Kandy and surrounding ridges. The area is recognized for its environmental value and biodiversity, and it is suitable for travelers who prefer nature, hiking, and scenic photography.",
+    "metadata": {
+      "id": 3,
+      "name": "Hanthana Mountain Range (Hanthana Conservation Forest)",
+      "district": "Kandy",
+      "category": "nature",
+      "budget_level": "low",
+      "recommended_duration": "full day",
+      "best_season": "December to April (drier hiking weather)",
+      "latitude": 7.256358,
+      "longitude": 80.627634
+    }
+  },
+  {
+    "text": "Hanthana International Bird Park is a relatively new attraction in the Hanthana hills near Kandy, located close to the Ceylon Tea Museum area. The park focuses on bird conservation and visitor engagement, offering opportunities to observe colorful bird species and family-friendly recreational activities. Because it is near other Hanthana attractions, it can be combined easily with a short tea museum visit or a scenic drive in the area.",
+    "metadata": {
+      "id": 4,
+      "name": "Hanthana International Bird Park",
+      "district": "Kandy",
+      "category": "nature",
+      "budget_level": "medium",
+      "recommended_duration": "2 hours",
+      "best_season": "Year-round",
+      "latitude": 7.26864,
+      "longitude": 80.63266
+    }
+  },
+  {
+    "text": "Ambuluwawa Tower is part of the Ambuluwawa Biodiversity Complex near Gampola and is known for its distinctive white spiral structure. Visitors can climb the narrow staircase to reach the upper levels and enjoy 360-degree views across the central highlands on clear days. The site also represents multi-religious harmony with several religious structures within the complex, making it popular for both scenic and cultural visits.",
+    "metadata": {
+      "id": 5,
+      "name": "Ambuluwawa Tower (Ambuluwawa Biodiversity Complex)",
+      "district": "Kandy",
+      "category": "scenic",
+      "budget_level": "low",
+      "recommended_duration": "half day",
+      "best_season": "December to April (clearer views)",
+      "latitude": 7.16152,
+      "longitude": 80.54736
+    }
+  },
+  {
+    "text": "The Nine Arches Bridge in Demodara, near Ella, is one of Sri Lanka’s most photographed railway landmarks. Built primarily from brick and stone, it spans a lush valley framed by tea plantations and forest. Visitors typically hike to popular viewpoints to watch trains cross the bridge and capture scenic photos, making it a key attraction for travelers exploring the Ella area.",
+    "metadata": {
+      "id": 6,
+      "name": "Nine Arches Bridge (Demodara)",
+      "district": "Badulla",
+      "category": "scenic",
+      "budget_level": "low",
+      "recommended_duration": "2 hours",
+      "best_season": "December to April (drier weather; clearer views)",
+      "latitude": 6.876667,
+      "longitude": 81.061111
+    }
+  },
+  {
+    "text": "Ella Rock is a well-known hiking destination in the Badulla District, offering a rewarding viewpoint above Ella. The trail often follows sections near the railway line and passes tea estates and forested paths before a steeper final ascent. From the top, travelers can view the dramatic Ella Gap and layered hill-country landscapes, making it especially attractive for adventure-oriented visitors and sunrise hikes.",
+    "metadata": {
+      "id": 7,
+      "name": "Ella Rock",
+      "district": "Badulla",
+      "category": "adventure",
+      "budget_level": "low",
+      "recommended_duration": "half day",
+      "best_season": "December to April (better hiking conditions)",
+      "latitude": 6.855169,
+      "longitude": 81.052269
+    }
+  },
+  {
+    "text": "Diyaluma Falls is a major waterfall near Koslanda in the Badulla District, known for its impressive drop and scenic surroundings. Many visitors hike to the upper section where natural rock pools form, offering dramatic views over the edge. Because water levels and rock surfaces can be dangerous, this location is best visited with safety awareness and local guidance, especially during or after heavy rain.",
+    "metadata": {
+      "id": 8,
+      "name": "Diyaluma Falls",
+      "district": "Badulla",
+      "category": "waterfall",
+      "budget_level": "low",
+      "recommended_duration": "half day",
+      "best_season": "February to July (conditions vary; check rain)",
+      "latitude": 6.733283,
+      "longitude": 81.031469
+    }
+  },
+  {
+    "text": "Ravana Falls (Ravana Ella) is a popular cascade located a short distance from Ella and easily accessible from the roadside. It is associated with local legend and is well known as a quick scenic stop for travelers heading between Ella and Wellawaya. During wetter periods the waterfall becomes more dramatic, and the surrounding greenery provides a strong backdrop for photographs.",
+    "metadata": {
+      "id": 9,
+      "name": "Ravana Falls (Ravana Ella)",
+      "district": "Badulla",
+      "category": "waterfall",
+      "budget_level": "low",
+      "recommended_duration": "1 hour",
+      "best_season": "Year-round (strongest flow in wet season)",
+      "latitude": 6.903889,
+      "longitude": 81.051667
+    }
+  },
+  {
+    "text": "Flying Ravana Mega Zip Line is an adventure activity near Ella, designed for travelers seeking a high-adrenaline experience with hill-country scenery. The ride traverses a valley with views of tea estates and the Ella area. As with any outdoor activity, operations and comfort depend on weather conditions, and visitors should follow safety instructions and eligibility requirements provided by the operator.",
+    "metadata": {
+      "id": 10,
+      "name": "Flying Ravana Mega Zip Line",
+      "district": "Badulla",
+      "category": "adventure",
+      "budget_level": "high",
+      "recommended_duration": "2 hours",
+      "best_season": "Year-round (weather-dependent activity)",
+      "latitude": 6.86598,
+      "longitude": 81.06207
+    }
+  }
+]

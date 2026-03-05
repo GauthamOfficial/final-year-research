@@ -1,0 +1,101 @@
+review_id,place_name,review_text,rating,sentiment_label
+1,Temple of the Tooth,"Good place to stop by, but nothing extraordinary at Temple of the Tooth.",3,neutral
+2,Temple of the Tooth,Temple of the Tooth was interesting though a bit busy.,3,neutral
+3,Temple of the Tooth,Beautiful location and great atmosphere at Temple of the Tooth.,4,positive
+4,Temple of the Tooth,Beautiful location and great atmosphere at Temple of the Tooth.,5,positive
+5,Temple of the Tooth,Temple of the Tooth had great scenery but the crowd ruined the experience.,1,negative
+6,Temple of the Tooth,"Great place to visit, Temple of the Tooth exceeded my expectations.",4,positive
+7,Temple of the Tooth,Beautiful location and great atmosphere at Temple of the Tooth.,4,positive
+8,Temple of the Tooth,"Amazing experience at Temple of the Tooth, highly recommended for travelers.",5,positive
+9,Temple of the Tooth,"Good place to stop by, but nothing extraordinary at Temple of the Tooth.",3,neutral
+10,Temple of the Tooth,Beautiful location and great atmosphere at Temple of the Tooth.,5,positive
+11,Peradeniya Botanical Garden,"Great place to visit, Peradeniya Botanical Garden exceeded my expectations.",4,positive
+12,Peradeniya Botanical Garden,The visit to Peradeniya Botanical Garden was okay but not very memorable.,2,negative
+13,Peradeniya Botanical Garden,"I expected more from Peradeniya Botanical Garden, a bit disappointing.",2,negative
+14,Peradeniya Botanical Garden,Peradeniya Botanical Garden was nice but quite crowded when I visited.,3,neutral
+15,Peradeniya Botanical Garden,"Decent attraction, Peradeniya Botanical Garden is worth seeing once.",3,neutral
+16,Peradeniya Botanical Garden,Peradeniya Botanical Garden was one of the highlights of my Sri Lanka trip.,4,positive
+17,Peradeniya Botanical Garden,"Loved visiting Peradeniya Botanical Garden, the views were fantastic.",4,positive
+18,Peradeniya Botanical Garden,Peradeniya Botanical Garden was one of the highlights of my Sri Lanka trip.,4,positive
+19,Peradeniya Botanical Garden,Beautiful location and great atmosphere at Peradeniya Botanical Garden.,5,positive
+20,Peradeniya Botanical Garden,Peradeniya Botanical Garden was too crowded and difficult to enjoy.,1,negative
+21,Hanthana Mountain Range,Hanthana Mountain Range was overrated in my opinion.,1,negative
+22,Hanthana Mountain Range,"Great place to visit, Hanthana Mountain Range exceeded my expectations.",5,positive
+23,Hanthana Mountain Range,"Loved visiting Hanthana Mountain Range, the views were fantastic.",4,positive
+24,Hanthana Mountain Range,Hanthana Mountain Range had good views but the facilities could improve.,3,neutral
+25,Hanthana Mountain Range,Hanthana Mountain Range was interesting though a bit busy.,3,neutral
+26,Hanthana Mountain Range,Beautiful location and great atmosphere at Hanthana Mountain Range.,5,positive
+27,Hanthana Mountain Range,Beautiful location and great atmosphere at Hanthana Mountain Range.,5,positive
+28,Hanthana Mountain Range,"Loved visiting Hanthana Mountain Range, the views were fantastic.",5,positive
+29,Hanthana Mountain Range,Hanthana Mountain Range was one of the highlights of my Sri Lanka trip.,5,positive
+30,Hanthana Mountain Range,The visit to Hanthana Mountain Range was okay but not very memorable.,2,negative
+31,Hanthana Birds Park,"Loved visiting Hanthana Birds Park, the views were fantastic.",5,positive
+32,Hanthana Birds Park,Hanthana Birds Park was one of the highlights of my Sri Lanka trip.,4,positive
+33,Hanthana Birds Park,"Amazing experience at Hanthana Birds Park, highly recommended for travelers.",4,positive
+34,Hanthana Birds Park,Hanthana Birds Park was too crowded and difficult to enjoy.,1,negative
+35,Hanthana Birds Park,Hanthana Birds Park was one of the highlights of my Sri Lanka trip.,4,positive
+36,Hanthana Birds Park,Hanthana Birds Park was one of the highlights of my Sri Lanka trip.,5,positive
+37,Hanthana Birds Park,Hanthana Birds Park was interesting though a bit busy.,3,neutral
+38,Hanthana Birds Park,"Great place to visit, Hanthana Birds Park exceeded my expectations.",5,positive
+39,Hanthana Birds Park,"Loved visiting Hanthana Birds Park, the views were fantastic.",5,positive
+40,Hanthana Birds Park,"Good place to stop by, but nothing extraordinary at Hanthana Birds Park.",3,neutral
+41,Ambuluwawa Tower,Ambuluwawa Tower had good views but the facilities could improve.,3,neutral
+42,Ambuluwawa Tower,"Good place to stop by, but nothing extraordinary at Ambuluwawa Tower.",3,neutral
+43,Ambuluwawa Tower,"Amazing experience at Ambuluwawa Tower, highly recommended for travelers.",4,positive
+44,Ambuluwawa Tower,Ambuluwawa Tower was one of the highlights of my Sri Lanka trip.,5,positive
+45,Ambuluwawa Tower,Ambuluwawa Tower was too crowded and difficult to enjoy.,2,negative
+46,Ambuluwawa Tower,"Decent attraction, Ambuluwawa Tower is worth seeing once.",3,neutral
+47,Ambuluwawa Tower,"Loved visiting Ambuluwawa Tower, the views were fantastic.",5,positive
+48,Ambuluwawa Tower,Ambuluwawa Tower was one of the highlights of my Sri Lanka trip.,4,positive
+49,Ambuluwawa Tower,The visit to Ambuluwawa Tower was okay but not very memorable.,2,negative
+50,Ambuluwawa Tower,"Good place to stop by, but nothing extraordinary at Ambuluwawa Tower.",3,neutral
+51,Nine Arches Bridge,Nine Arches Bridge was nice but quite crowded when I visited.,3,neutral
+52,Nine Arches Bridge,"Decent attraction, Nine Arches Bridge is worth seeing once.",3,neutral
+53,Nine Arches Bridge,Nine Arches Bridge was nice but quite crowded when I visited.,3,neutral
+54,Nine Arches Bridge,"Loved visiting Nine Arches Bridge, the views were fantastic.",4,positive
+55,Nine Arches Bridge,"Amazing experience at Nine Arches Bridge, highly recommended for travelers.",4,positive
+56,Nine Arches Bridge,Nine Arches Bridge had good views but the facilities could improve.,3,neutral
+57,Nine Arches Bridge,Nine Arches Bridge was interesting though a bit busy.,3,neutral
+58,Nine Arches Bridge,Beautiful location and great atmosphere at Nine Arches Bridge.,5,positive
+59,Nine Arches Bridge,"I expected more from Nine Arches Bridge, a bit disappointing.",2,negative
+60,Nine Arches Bridge,Nine Arches Bridge was nice but quite crowded when I visited.,3,neutral
+61,Ella Rock,"Loved visiting Ella Rock, the views were fantastic.",5,positive
+62,Ella Rock,"Great place to visit, Ella Rock exceeded my expectations.",5,positive
+63,Ella Rock,Ella Rock was one of the highlights of my Sri Lanka trip.,5,positive
+64,Ella Rock,Ella Rock was interesting though a bit busy.,3,neutral
+65,Ella Rock,Ella Rock was too crowded and difficult to enjoy.,1,negative
+66,Ella Rock,Beautiful location and great atmosphere at Ella Rock.,5,positive
+67,Ella Rock,Ella Rock was too crowded and difficult to enjoy.,2,negative
+68,Ella Rock,Ella Rock was one of the highlights of my Sri Lanka trip.,5,positive
+69,Ella Rock,"Loved visiting Ella Rock, the views were fantastic.",4,positive
+70,Ella Rock,"Amazing experience at Ella Rock, highly recommended for travelers.",4,positive
+71,Diyaluma Falls,"Decent attraction, Diyaluma Falls is worth seeing once.",3,neutral
+72,Diyaluma Falls,"Loved visiting Diyaluma Falls, the views were fantastic.",4,positive
+73,Diyaluma Falls,Diyaluma Falls was interesting though a bit busy.,3,neutral
+74,Diyaluma Falls,Diyaluma Falls was nice but quite crowded when I visited.,3,neutral
+75,Diyaluma Falls,Beautiful location and great atmosphere at Diyaluma Falls.,5,positive
+76,Diyaluma Falls,"Amazing experience at Diyaluma Falls, highly recommended for travelers.",4,positive
+77,Diyaluma Falls,Diyaluma Falls had good views but the facilities could improve.,3,neutral
+78,Diyaluma Falls,Beautiful location and great atmosphere at Diyaluma Falls.,5,positive
+79,Diyaluma Falls,Diyaluma Falls was one of the highlights of my Sri Lanka trip.,4,positive
+80,Diyaluma Falls,Diyaluma Falls was too crowded and difficult to enjoy.,1,negative
+81,Ravana Falls,Ravana Falls was interesting though a bit busy.,3,neutral
+82,Ravana Falls,"Great place to visit, Ravana Falls exceeded my expectations.",5,positive
+83,Ravana Falls,Ravana Falls was one of the highlights of my Sri Lanka trip.,4,positive
+84,Ravana Falls,"Loved visiting Ravana Falls, the views were fantastic.",5,positive
+85,Ravana Falls,"Great place to visit, Ravana Falls exceeded my expectations.",4,positive
+86,Ravana Falls,Ravana Falls was one of the highlights of my Sri Lanka trip.,5,positive
+87,Ravana Falls,"Good place to stop by, but nothing extraordinary at Ravana Falls.",3,neutral
+88,Ravana Falls,"I expected more from Ravana Falls, a bit disappointing.",1,negative
+89,Ravana Falls,Beautiful location and great atmosphere at Ravana Falls.,5,positive
+90,Ravana Falls,"Great place to visit, Ravana Falls exceeded my expectations.",4,positive
+91,Flying Ravana Zip Line,Flying Ravana Zip Line had great scenery but the crowd ruined the experience.,2,negative
+92,Flying Ravana Zip Line,"Great place to visit, Flying Ravana Zip Line exceeded my expectations.",5,positive
+93,Flying Ravana Zip Line,Flying Ravana Zip Line was one of the highlights of my Sri Lanka trip.,4,positive
+94,Flying Ravana Zip Line,"Loved visiting Flying Ravana Zip Line, the views were fantastic.",5,positive
+95,Flying Ravana Zip Line,"Great place to visit, Flying Ravana Zip Line exceeded my expectations.",5,positive
+96,Flying Ravana Zip Line,"I expected more from Flying Ravana Zip Line, a bit disappointing.",2,negative
+97,Flying Ravana Zip Line,"Loved visiting Flying Ravana Zip Line, the views were fantastic.",5,positive
+98,Flying Ravana Zip Line,"Amazing experience at Flying Ravana Zip Line, highly recommended for travelers.",4,positive
+99,Flying Ravana Zip Line,"Loved visiting Flying Ravana Zip Line, the views were fantastic.",4,positive
+100,Flying Ravana Zip Line,"Great place to visit, Flying Ravana Zip Line exceeded my expectations.",5,positive

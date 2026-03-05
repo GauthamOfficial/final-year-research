@@ -1,0 +1,4 @@
+# .\.final-project\Scripts\Activate.ps1
+
+chromadb
+sentence-transformers
