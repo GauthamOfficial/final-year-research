@@ -1,0 +1,42 @@
+[
+    {
+      "query": "best religious place in Kandy",
+      "relevant": ["Temple of the Tooth (Sri Dalada Maligawa)"]
+    },
+    {
+      "query": "botanical garden in Kandy",
+      "relevant": ["Royal Botanic Gardens, Peradeniya"]
+    },
+    {
+      "query": "bird watching place in Kandy",
+      "relevant": ["Hanthana International Bird Park"]
+    },
+    {
+      "query": "mountain hiking in Kandy",
+      "relevant": ["Hanthana Mountain Range (Hanthana Conservation Forest)"]
+    },
+    {
+      "query": "cheap waterfall near Ella",
+      "relevant": ["Ravana Falls (Ravana Ella)", "Diyaluma Falls"]
+    },
+    {
+      "query": "waterfall near Badulla",
+      "relevant": ["Ravana Falls (Ravana Ella)", "Diyaluma Falls"]
+    },
+    {
+      "query": "adventure activity in Badulla",
+      "relevant": ["Ella Rock", "Flying Ravana Mega Zip Line"]
+    },
+    {
+      "query": "scenic train bridge in Ella",
+      "relevant": ["Nine Arches Bridge (Demodara)"]
+    },
+    {
+      "query": "scenic viewpoint in Kandy",
+      "relevant": ["Ambuluwawa Tower (Ambuluwawa Biodiversity Complex)"]
+    },
+    {
+      "query": "hiking trail near Ella",
+      "relevant": ["Ella Rock"]
+    }
+  ]
