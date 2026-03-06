@@ -1,19 +1,26 @@
 """
 Generate a natural travel recommendation using Gemini based on retrieved places.
-Reads the Gemini API key from the GEMINI_API_KEY environment variable.
+Reads the Gemini API key from the GEMINI_API_KEY variable in a .env file or environment.
 """
 
 import os
+from pathlib import Path
 from typing import List, Dict, Any
 
-import google.generativeai as genai
+from google import genai
+from dotenv import load_dotenv
 
-# Read API key from environment (set GEMINI_API_KEY before running)
+# Load .env from project root (directory containing this file)
+_env_path = Path(__file__).resolve().parent / ".env"
+load_dotenv(_env_path)
+
 _api_key = os.environ.get("GEMINI_API_KEY")
-if _api_key:
-    genai.configure(api_key=_api_key)
+if not _api_key or not _api_key.strip():
+    raise ValueError(
+        "GEMINI_API_KEY is not set. Add it to your .env file or set the environment variable."
+    )
 
-model = genai.GenerativeModel("gemini-1.5-flash")
+client = genai.Client(api_key=_api_key.strip())
 
 
 def generate_travel_response(query: str, retrieved_places: List[Dict[str, Any]]) -> str:
@@ -37,12 +44,52 @@ def generate_travel_response(query: str, retrieved_places: List[Dict[str, Any]])
         )
     relevant_block = "\n".join(lines) if lines else "(No places provided.)"
 
-    prompt = f"""User query: {query}
+    prompt = f"""You are a travel assistant. Answer using ONLY the information in the retrieved places below.
 
-Relevant places:
+RULES (strict):
+- Use ONLY the information provided in the retrieved places context.
+- Do NOT invent additional facts.
+- Do NOT add travel times, ticket prices, train schedules, hotel suggestions, food suggestions, or historical details unless they are explicitly present in the retrieved context.
+- If some detail is missing, say: "This information is not available in the current knowledge base."
+- For itinerary-style queries, you may reorganize the retrieved places into a natural explanation, but do NOT introduce new attractions or unsupported travel advice.
+- Keep your answer concise and practical.
+
+User query: {query}
+
+Retrieved places (your only source of facts):
 {relevant_block}
 
-Write a short helpful travel recommendation."""
+Write a short, helpful travel recommendation that follows the rules above."""
 
-    response = model.generate_content(prompt)
-    return response.text.strip() if response.text else ""
+    try:
+        response = client.models.generate_content(
+            model="gemini-2.5-flash",
+            contents=prompt,
+        )
+        return (response.text or "").strip()
+    except Exception:
+        raise
+
+
+if __name__ == "__main__":
+    query = "cheap waterfall near Ella"
+    retrieved_places = [
+        {
+            "name": "Ravana Falls (Ravana Ella)",
+            "district": "Badulla",
+            "category": "waterfall",
+            "best_season": "Year-round",
+            "recommended_duration": "1 hour",
+            "budget_level": "low",
+        },
+        {
+            "name": "Diyaluma Falls",
+            "district": "Badulla",
+            "category": "waterfall",
+            "best_season": "February to July",
+            "recommended_duration": "half day",
+            "budget_level": "low",
+        },
+    ]
+    response = generate_travel_response(query, retrieved_places)
+    print(response)
